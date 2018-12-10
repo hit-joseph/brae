@@ -3,7 +3,7 @@ brae
 
 Bilingual contrained phrase embedding for MT
 
-Monoligual phrase embedding works with backpropagation
+Monolingual phrase embedding works with backpropagation
 
 $ time ./phraseEmbedding.py
 Reading vectors in binary format
